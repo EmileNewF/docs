@@ -146,10 +146,10 @@
           {
             "group": "Endpoint examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "npc/endpoint/get",
+              "npc/endpoint/create",
+              "npc/endpoint/delete",
+              "npc/endpoint/webhook"
             ]
           }
         ]
@@ -160,10 +160,10 @@
           {
             "group": "Endpoint examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "constructex/endpoint/get",
+              "constructex/endpoint/create",
+              "constructex/endpoint/delete",
+              "constructex/endpoint/webhook"
             ]
           }
         ]
