@@ -11,44 +11,131 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Newforma Konekt",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Basics",
+              "Setup",
+              "Account Management",
+              "Profile & Notifications"
             ]
           },
           {
-            "group": "Customization",
+            "group": "General",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "Related Items"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Hubs & Projects",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "Hubs",
+              "Projects"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Issues",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "Issue Management"
             ]
+          },
+          {
+            "group": "Change Management",
+            "pages": [
+              "Supplemental Instructions (SI)",
+              "Proposal Requests (PR)",
+              "Change Proposals (CP)",
+              "Construction Change Directives (CCD)"
+            ]
+          },
+          {
+            "group": "RFIs & Submittals",
+            "pages": [
+              "RFIs",
+              "Submittals"
+            ]  
+          },
+          {
+            "group": "Emails",
+            "pages": [
+              "Email Management"
+            ]
+          },
+          {
+            "group": "File Manager",
+            "pages": [
+              "File Management",
+              "Data Sources"
+            ]  
+          },
+          {
+            "group": "Document Control",
+            "pages": [
+              "Document Management"
+            ]  
+          },
+          {
+            "group": "Sharing Center",
+            "pages": [
+              "Overview"
+            ]  
+          },
+          {
+            "group": "2D/3D Viewer",
+            "pages": [
+              "Legacy Viewer",
+              "NexGen Viewer (Beta)"
+            ]  
+          },
+          {
+            "group": "Metric & Reports",
+            "pages": [
+              "Metrics",
+              "Reports"
+            ]  
+          },
+          {
+            "group": "Mobile App",
+            "pages": [
+              "Getting Started with NK Mobile",
+              "File Manager on Mobile",
+              "Issue Management on Mobile",
+              "RFI & Submittal Management on Mobile",
+              "Email Management on Mobile",
+              "Mobile Viewer (Beta)"
+            ]  
+          },
+          {
+            "group": "Add-ins",
+            "pages": [
+              "Getting Started with Add-ins",
+              "Common Features",
+              "Revit",
+              "Navisworks",
+              "AutoCAD",
+              "Tekla Structures",
+              "Archicad",
+              "Outlook"
+            ]  
+          },
+          {
+            "group": "Integrations & API",
+            "pages": [
+              "Getting Started with Integrations",
+              "File Server Connector",
+              "Power BI",
+              "Procore",
+              "Solibri",
+              "More Integrations",
+              "API"
+            ]  
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Newforma Project Center",
         "groups": [
           {
             "group": "API documentation",
