@@ -33,25 +33,25 @@
               {
                 "group": "Basics",
                 "pages": [
-                  "about-open-bim"
+                  "konekt/getting-started/basics/about-open-bim"
                 ]
               },
               {
                 "group": "Setup",
                 "pages": [
-                  "access-rights-management"
+                  "konekt/getting-started/setup/access-rights-management"
                 ]
               },
               {
                 "group": "Account Management",
                 "pages": [
-                  "create-activate-account"
+                  "konekt/getting-started/account-management/create-activate-account"
                 ]
               },
               {
                 "group": "Profile & Notifications",
                 "pages": [
-                  "change-language"
+                  "konekt/getting-started/profile-notifications/change-language"
                 ]
               }
             ]
