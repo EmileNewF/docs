@@ -32,19 +32,27 @@
             "pages": [
               {
                 "group": "Basics",
-                "pages": []
+                "pages": [
+                  "about-open-bim"
+                ]
               },
               {
                 "group": "Setup",
-                "pages": []
+                "pages": [
+                  "access-rights-management"
+                ]
               },
               {
                 "group": "Account Management",
-                "pages": []
+                "pages": [
+                  "create-activate-account"
+                ]
               },
               {
                 "group": "Profile & Notifications",
-                "pages": []
+                "pages": [
+                  "change-language"
+                ]
               }
             ]
           },
@@ -53,7 +61,9 @@
             "pages": [
               {
                 "group": "Related Items",
-                "pages": []
+                "pages": [
+                  "aggregate-search-overview"
+                ]
               }
             ]
           },
@@ -62,11 +72,15 @@
             "pages": [
               {
                 "group": "Hubs",
-                "pages": []
+                "pages": [
+                  "create-a-hub"
+                ]
               },
               {
                 "group": "Projects",
-                "pages": []
+                "pages": [
+                  "create-a-project"
+                ]
               }
             ]
           },
@@ -86,19 +100,27 @@
             "pages": [
               {
                 "group": "Supplemental Instructions (SI)",
-                "pages": []
+                "pages": [
+                  "create-or-log-an-si"
+                ]
               },
               {
                 "group": "Proposal Requests (PR)",
-                "pages": []
+                "pages": [
+                  "create-or-log-a-pr"
+                ]
               },
               {
                 "group": "Change Proposals (CP)",
-                "pages": []
+                "pages": [
+                  "create-or-log-a-cp"
+                ]
               },
               {
                 "group": "Construction Change Directives (CCD)",
-                "pages": []
+                "pages": [
+                  "create-or-log-a-ccd"
+                ]
               }
             ]
           },
@@ -107,11 +129,15 @@
             "pages": [
               {
                 "group": "RFIs",
-                "pages": []
+                "pages": [
+                  "create-or-log-an-rfi"
+                ]
               },
               {
                 "group": "Submittals",
-                "pages": []
+                "pages": [
+                  "create-or-log-a-submittal"
+                ]
               }
             ]
           },
@@ -120,7 +146,9 @@
             "pages": [
               {
                 "group": "Email Management",
-                "pages": []
+                "pages": [
+                  "email-management-overview"
+                ]
               }
             ]
           },
