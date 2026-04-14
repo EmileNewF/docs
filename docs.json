@@ -9,6 +9,20 @@
   },
   "favicon": "/logo.png",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://mintlify.com/blog"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Newforma Konekt",
@@ -16,121 +30,253 @@
           {
             "group": "Getting Started",
             "pages": [
-              "Basics",
-              "Setup",
-              "Account Management",
-              "Profile & Notifications"
+              {
+                "group": "Basics",
+                "pages": []
+              },
+              {
+                "group": "Setup",
+                "pages": []
+              },
+              {
+                "group": "Account Management",
+                "pages": []
+              },
+              {
+                "group": "Profile & Notifications",
+                "pages": []
+              }
             ]
           },
           {
             "group": "General",
             "pages": [
-              "Related Items"
+              {
+                "group": "Related Items",
+                "pages": []
+              }
             ]
           },
           {
             "group": "Hubs & Projects",
             "pages": [
-              "Hubs",
-              "Projects"
+              {
+                "group": "Hubs",
+                "pages": []
+              },
+              {
+                "group": "Projects",
+                "pages": []
+              }
             ]
           },
           {
             "group": "Issues",
             "pages": [
-              "Issue Management"
+              {
+                "group": "Issue Management",
+                "pages": []
+              }
             ]
           },
           {
             "group": "Change Management",
             "pages": [
-              "Supplemental Instructions (SI)",
-              "Proposal Requests (PR)",
-              "Change Proposals (CP)",
-              "Construction Change Directives (CCD)"
+              {
+                "group": "Supplemental Instructions (SI)",
+                "pages": []
+              },
+              {
+                "group": "Proposal Requests (PR)",
+                "pages": []
+              },
+              {
+                "group": "Change Proposals (CP)",
+                "pages": []
+              },
+              {
+                "group": "Construction Change Directives (CCD)",
+                "pages": []
+              }
             ]
           },
           {
             "group": "RFIs & Submittals",
             "pages": [
-              "RFIs",
-              "Submittals"
-            ]  
+              {
+                "group": "RFIs",
+                "pages": []
+              },
+              {
+                "group": "Submittals",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Emails",
             "pages": [
-              "Email Management"
+              {
+                "group": "Email Management",
+                "pages": []
+              }
             ]
           },
           {
             "group": "File Manager",
             "pages": [
-              "File Management",
-              "Data Sources"
-            ]  
+              {
+                "group": "File Management",
+                "pages": []
+              },
+              {
+                "group": "Data Sources",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Document Control",
             "pages": [
-              "Document Management"
-            ]  
+              {
+                "group": "Document Management",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Sharing Center",
             "pages": [
-              "Overview"
-            ]  
+              {
+                "group": "Overview",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "2D/3D Viewer",
             "pages": [
-              "Legacy Viewer",
-              "NexGen Viewer (Beta)"
-            ]  
+              {
+                "group": "Legacy Viewer",
+                "pages": []
+              },
+              {
+                "group": "NexGen Viewer (Beta)",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Metric & Reports",
             "pages": [
-              "Metrics",
-              "Reports"
-            ]  
+              {
+                "group": "Metrics",
+                "pages": []
+              },
+              {
+                "group": "Reports",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Mobile App",
             "pages": [
-              "Getting Started with NK Mobile",
-              "File Manager on Mobile",
-              "Issue Management on Mobile",
-              "RFI & Submittal Management on Mobile",
-              "Email Management on Mobile",
-              "Mobile Viewer (Beta)"
-            ]  
+              {
+                "group": "Getting Started with NK Mobile",
+                "pages": []
+              },
+              {
+                "group": "File Manager on Mobile",
+                "pages": []
+              },
+              {
+                "group": "Issue Management on Mobile",
+                "pages": []
+              },
+              {
+                "group": "RFI & Submittal Management on Mobile",
+                "pages": []
+              },
+              {
+                "group": "Email Management on Mobile",
+                "pages": []
+              },
+              {
+                "group": "Mobile Viewer (Beta)",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Add-ins",
             "pages": [
-              "Getting Started with Add-ins",
-              "Common Features",
-              "Revit",
-              "Navisworks",
-              "AutoCAD",
-              "Tekla Structures",
-              "Archicad",
-              "Outlook"
-            ]  
+              {
+                "group": "Getting Started with Add-ins",
+                "pages": []
+              },
+              {
+                "group": "Common Features",
+                "pages": []
+              },
+              {
+                "group": "Revit",
+                "pages": []
+              },
+              {
+                "group": "Navisworks",
+                "pages": []
+              },
+              {
+                "group": "AutoCAD",
+                "pages": []
+              },
+              {
+                "group": "Tekla Structures",
+                "pages": []
+              },
+              {
+                "group": "Archicad",
+                "pages": []
+              },
+              {
+                "group": "Outlook",
+                "pages": []
+              }
+            ]
           },
           {
             "group": "Integrations & API",
             "pages": [
-              "Getting Started with Integrations",
-              "File Server Connector",
-              "Power BI",
-              "Procore",
-              "Solibri",
-              "More Integrations",
-              "API"
-            ]  
+              {
+                "group": "Getting Started with Integrations",
+                "pages": []
+              },
+              {
+                "group": "File Server Connector",
+                "pages": []
+              },
+              {
+                "group": "Power BI",
+                "pages": []
+              },
+              {
+                "group": "Procore",
+                "pages": []
+              },
+              {
+                "group": "Solibri",
+                "pages": []
+              },
+              {
+                "group": "More Integrations",
+                "pages": []
+              },
+              {
+                "group": "API",
+                "pages": []
+              }
+            ]
           }
         ]
       },
@@ -168,21 +314,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
