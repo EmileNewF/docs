@@ -1,8 +1,8 @@
-h3 {
-  margin-top: 0.5rem;
-  margin-bottom: 0.25rem;
+#body-content h3 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
 }
 
-p {
-  text-align: justify;
+#body-content p {
+  text-align: justify !important;
 }
