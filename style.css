@@ -1,14 +1,4 @@
 .article h3 {
-  margin-top: 0.8rem !important;
-  margin-bottom: 0.45rem !important;
-}
-
-.article {
-  max-width: 75ch;
-  margin: 0 auto;
-}
-
-.article p,
-.article li {
-  line-height: 1.7;
+  margin-top: 1rem !important;
+  margin-bottom: 0.6rem !important;
 }
