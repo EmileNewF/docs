@@ -8,6 +8,6 @@
   text-align: justify;
 }
 
-#body-content {
-  outline: 4px solid red !important;
+html {
+  background: red !important;
 }
