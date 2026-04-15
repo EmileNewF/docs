@@ -1,9 +1,9 @@
-main h3 {
+.article h3 {
   margin-top: 0.5rem !important;
   margin-bottom: 0.25rem !important;
 }
 
-main p,
-main li {
+.article p,
+.article li {
   text-align: justify !important;
 }
