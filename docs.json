@@ -62,7 +62,7 @@
               {
                 "group": "Related Items",
                 "pages": [
-                  "aggregate-search-overview"
+                  "konekt/general/related-items/aggregate-search-overview"
                 ]
               }
             ]
@@ -73,13 +73,13 @@
               {
                 "group": "Hubs",
                 "pages": [
-                  "create-a-hub"
+                  "konekt/hubs-projects/hubs/create-a-hub"
                 ]
               },
               {
                 "group": "Projects",
                 "pages": [
-                  "create-a-project"
+                  "konekt/hubs-projects/projects/create-a-project"
                 ]
               }
             ]
@@ -90,7 +90,7 @@
               {
                 "group": "Issue Management",
                 "pages": [
-                  "issue-fields"
+                  "konekt/issues/issue-management/issue-fields"
                 ]
               }
             ]
@@ -101,25 +101,25 @@
               {
                 "group": "Supplemental Instructions (SI)",
                 "pages": [
-                  "create-or-log-an-si"
+                  "konekt/change-management/supplemental-instructions/create-or-log-an-si"
                 ]
               },
               {
                 "group": "Proposal Requests (PR)",
                 "pages": [
-                  "create-or-log-a-pr"
+                  "konekt/change-management/proposal-requests/create-or-log-a-pr"
                 ]
               },
               {
                 "group": "Change Proposals (CP)",
                 "pages": [
-                  "create-or-log-a-cp"
+                  "konekt/change-management/change-proposals/create-or-log-a-cp"
                 ]
               },
               {
                 "group": "Construction Change Directives (CCD)",
                 "pages": [
-                  "create-or-log-a-ccd"
+                  "konekt/change-management/ccd/create-or-log-a-ccd"
                 ]
               }
             ]
@@ -130,13 +130,13 @@
               {
                 "group": "RFIs",
                 "pages": [
-                  "create-or-log-an-rfi"
+                  "konekt/rfis-submittals/rfis/create-or-log-an-rfi"
                 ]
               },
               {
                 "group": "Submittals",
                 "pages": [
-                  "create-or-log-a-submittal"
+                  "konekt/rfis-submittals/submittals/create-or-log-a-submittal"
                 ]
               }
             ]
@@ -147,7 +147,7 @@
               {
                 "group": "Email Management",
                 "pages": [
-                  "email-management-overview"
+                  "konekt/emails/email-management/email-management-overview"
                 ]
               }
             ]
