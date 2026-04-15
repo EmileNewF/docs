@@ -3,6 +3,7 @@
   margin-bottom: 0.25rem !important;
 }
 
-#body-content p {
-  text-align: justify !important;
+#body-content p,
+#body-content li {
+  text-align: justify;
 }
