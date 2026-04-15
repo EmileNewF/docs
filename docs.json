@@ -8,12 +8,7 @@
     "dark": "#285195"
   },
   "favicon": "/logo.png",
-  "customScripts": [
-    {
-      "src": "/styles/overrides.css",
-      "type": "style"
-    }
-  ],
+  "customScripts": "/style.css",
   "navigation": {
     "global": {
       "anchors": [
