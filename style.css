@@ -1,9 +1,14 @@
 .article h3 {
-  margin-top: 0.5rem !important;
-  margin-bottom: 0.25rem !important;
+  margin-top: 0.6rem !important;
+  margin-bottom: 0.35rem !important;
 }
 
-.article p,
-.article li {
+.article {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.article :is(p, li) {
   text-align: justify !important;
+  hyphens: auto;
 }
