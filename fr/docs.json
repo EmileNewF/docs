@@ -1,0 +1,386 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "style": "/style.css",
+  "name": "Newforma Help",
+  "colors": {
+    "primary": "#98B8EE",
+    "light": "#EAEEF3",
+    "dark": "#285195"
+  },
+  "favicon": "/logo.png",
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://mintlify.com/blog"
+        }
+      ]
+    },
+    "tabs": [
+      {
+        "tab": "Newforma Konekt",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              {
+                "group": "Basics",
+                "pages": [
+                  "konekt/getting-started/basics/about-open-bim"
+                ]
+              },
+              {
+                "group": "Setup",
+                "pages": [
+                  "konekt/getting-started/setup/access-rights-management"
+                ]
+              },
+              {
+                "group": "Account Management",
+                "pages": [
+                  "konekt/getting-started/account-management/create-activate-account"
+                ]
+              },
+              {
+                "group": "Profile & Notifications",
+                "pages": [
+                  "konekt/getting-started/profile-notifications/change-language"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "General",
+            "pages": [
+              {
+                "group": "Related Items",
+                "pages": [
+                  "konekt/general/related-items/aggregate-search-overview"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Hubs & Projects",
+            "pages": [
+              {
+                "group": "Hubs",
+                "pages": [
+                  "konekt/hubs-projects/hubs/create-a-hub"
+                ]
+              },
+              {
+                "group": "Projects",
+                "pages": [
+                  "konekt/hubs-projects/projects/create-a-project"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Issues",
+            "pages": [
+              {
+                "group": "Issue Management",
+                "pages": [
+                  "konekt/issues/issue-management/issue-fields"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Change Management",
+            "pages": [
+              {
+                "group": "Supplemental Instructions (SI)",
+                "pages": [
+                  "konekt/change-management/supplemental-instructions/create-or-log-an-si"
+                ]
+              },
+              {
+                "group": "Proposal Requests (PR)",
+                "pages": [
+                  "konekt/change-management/proposal-requests/create-or-log-a-pr"
+                ]
+              },
+              {
+                "group": "Change Proposals (CP)",
+                "pages": [
+                  "konekt/change-management/change-proposals/create-or-log-a-cp"
+                ]
+              },
+              {
+                "group": "Construction Change Directives (CCD)",
+                "pages": [
+                  "konekt/change-management/ccd/create-or-log-a-ccd"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "RFIs & Submittals",
+            "pages": [
+              {
+                "group": "RFIs",
+                "pages": [
+                  "konekt/rfis-submittals/rfis/create-or-log-an-rfi"
+                ]
+              },
+              {
+                "group": "Submittals",
+                "pages": [
+                  "konekt/rfis-submittals/submittals/create-or-log-a-submittal"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Emails",
+            "pages": [
+              {
+                "group": "Email Management",
+                "pages": [
+                  "konekt/emails/email-management/email-management-overview"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "File Manager",
+            "pages": [
+              {
+                "group": "File Management",
+                "pages": []
+              },
+              {
+                "group": "Data Sources",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Document Control",
+            "pages": [
+              {
+                "group": "Document Management",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Sharing Center",
+            "pages": [
+              {
+                "group": "Overview",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "2D/3D Viewer",
+            "pages": [
+              {
+                "group": "Legacy Viewer",
+                "pages": []
+              },
+              {
+                "group": "NexGen Viewer (Beta)",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Metric & Reports",
+            "pages": [
+              {
+                "group": "Metrics",
+                "pages": []
+              },
+              {
+                "group": "Reports",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Mobile App",
+            "pages": [
+              {
+                "group": "Getting Started with NK Mobile",
+                "pages": []
+              },
+              {
+                "group": "File Manager on Mobile",
+                "pages": []
+              },
+              {
+                "group": "Issue Management on Mobile",
+                "pages": []
+              },
+              {
+                "group": "RFI & Submittal Management on Mobile",
+                "pages": []
+              },
+              {
+                "group": "Email Management on Mobile",
+                "pages": []
+              },
+              {
+                "group": "Mobile Viewer (Beta)",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Add-ins",
+            "pages": [
+              {
+                "group": "Getting Started with Add-ins",
+                "pages": []
+              },
+              {
+                "group": "Common Features",
+                "pages": []
+              },
+              {
+                "group": "Revit",
+                "pages": []
+              },
+              {
+                "group": "Navisworks",
+                "pages": []
+              },
+              {
+                "group": "AutoCAD",
+                "pages": []
+              },
+              {
+                "group": "Tekla Structures",
+                "pages": []
+              },
+              {
+                "group": "Archicad",
+                "pages": []
+              },
+              {
+                "group": "Outlook",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Integrations & API",
+            "pages": [
+              {
+                "group": "Getting Started with Integrations",
+                "pages": []
+              },
+              {
+                "group": "File Server Connector",
+                "pages": []
+              },
+              {
+                "group": "Power BI",
+                "pages": []
+              },
+              {
+                "group": "Procore",
+                "pages": []
+              },
+              {
+                "group": "Solibri",
+                "pages": []
+              },
+              {
+                "group": "More Integrations",
+                "pages": []
+              },
+              {
+                "group": "API",
+                "pages": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Newforma Project Center",
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "npc/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "npc/endpoint/get",
+              "npc/endpoint/create",
+              "npc/endpoint/delete",
+              "npc/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Newforma ConstructEX",
+        "groups": [
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "constructex/endpoint/get",
+              "constructex/endpoint/create",
+              "constructex/endpoint/delete",
+              "constructex/endpoint/webhook"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  }
+}
