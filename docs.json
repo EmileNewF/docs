@@ -419,7 +419,7 @@
                   {
                     "group": "Gestion des questions",
                     "pages": [
-                      "fr/konekt/questions/gestion-des-questions/champs-des-questions"
+                      "fr/konekt/issues/issues-management/issue-fields"
                     ]
                   }
                 ]
