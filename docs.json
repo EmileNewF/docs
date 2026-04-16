@@ -30,7 +30,6 @@
         "tabs": [
           {
             "tab": "Newforma Konekt",
-            "icon": "globe-alt",
             "groups": [
               {
                 "group": "Getting Started",
@@ -91,6 +90,7 @@
               },
               {
                 "group": "Issues",
+                "icon": "globe-alt",
                 "pages": [
                   {
                     "group": "Issue Management",
@@ -356,7 +356,6 @@
         "tabs": [
           {
             "tab": "Newforma Konekt",
-            "icon": "globe-alt",
             "groups": [
               {
                 "group": "Bien démarrer",
@@ -417,6 +416,7 @@
               },
               {
                 "group": "Questions",
+                "icon": "globe-alt",
                 "pages": [
                   {
                     "group": "Gestion des questions",
