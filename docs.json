@@ -90,7 +90,7 @@
               },
               {
                 "group": "Issues",
-                "icon": "globe-alt",
+                "icon": "globe",
                 "pages": [
                   {
                     "group": "Issue Management",
@@ -416,7 +416,7 @@
               },
               {
                 "group": "Questions",
-                "icon": "globe-alt",
+                "icon": "globe",
                 "pages": [
                   {
                     "group": "Gestion des questions",
