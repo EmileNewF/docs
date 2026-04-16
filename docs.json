@@ -414,12 +414,12 @@
                 ]
               },
               {
-                "group": "Problèmes",
+                "group": "Questions",
                 "pages": [
                   {
-                    "group": "Gestion des problèmes",
+                    "group": "Gestion des questions",
                     "pages": [
-                      "fr/konekt/issues/issue-management/issue-fields"
+                      "fr/konekt/questions/gestion-des-questions/champs-des-questions"
                     ]
                   }
                 ]
